@@ -13,8 +13,8 @@ This repository includes 4 files, the R script named `run_analysis.R`, this READ
 
 Goal | Item | Link to Item
 --- | --- | ---
-R Script |  run_analysis.R |  [Link]()
+R Script |  run_analysis.R |  [Link](https://github.com/sgeller500/Data_Science_Coursera/blob/main/3_Getting%20and%20Cleaning%20Data/run_analysis.R)
 Read_me file | README.md | [Link](https://github.com/sgeller500/Data_Science_Coursera/blob/main/3_Getting%20and%20Cleaning%20Data/README.md)
-CodeBook file | CodeBook.md | [Link][(https://github.com/sgeller500/Data_Science_Coursera/blob/main/3_Getting%20and%20Cleaning%20Data/CodeBook.md)
-Tidy Data file |  Clean Data Set |  [Link]()
+CodeBook file | CodeBook.md | [Link](https://github.com/sgeller500/Data_Science_Coursera/blob/main/3_Getting%20and%20Cleaning%20Data/CodeBook.md)
+Tidy Data file |  Clean Data Set |  [Link](https://github.com/sgeller500/Data_Science_Coursera/blob/main/3_Getting%20and%20Cleaning%20Data/tidyData.txt)
 
